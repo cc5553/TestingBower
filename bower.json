@@ -1,0 +1,17 @@
+{
+  "name": "TestingBower",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cc5553/TestingBower",
+  "authors": [
+    "Chai <chaitanya.chalasani@advancedcomputersoftware.com>"
+  ],
+  "description": "Testing Bower with sample css file",
+  "main": "\"TestingBower/mystyle.css\"",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "TestingBower"
+  ],
+  "license": "MIT"
+}
